@@ -1,3 +1,3 @@
 module.exports = {
-  tk: "your token",
+  tk: process.env.TOKEN,
 };
